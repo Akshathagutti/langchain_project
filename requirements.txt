@@ -1,2 +1,6 @@
 langchain
-ipykernal
+python_dotenv
+langchain-community
+pypdf
+sentence_transformers
+langchain_huggingface
